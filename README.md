@@ -33,7 +33,7 @@ The goal of this project is to transform raw educational data into actionable in
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
 - Slicers & KPIs  
-- Excel Formulas (AVERAGEIFS, COUNTIFS, IF, CORREL)  
+- Excel Formulas (AVERAGEIFS, COUNTIFS, IF)  
 
 ---
 
