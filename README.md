@@ -65,19 +65,19 @@ Five interactive dashboards were created, each addressing a specific problem are
 - Charts: Hours Studied, Attendance, Tutoring, Sleep vs Exam Score  
 - Slicers: Gender, School Type, Parental Involvement  
 
-### 2️⃣ How Family Background Shapes Student Success
+### 2️⃣ Family Background Influence on Student Performance
 - Charts: Motivation, Parental Education, Family Income vs Performance  
 - Slicers: Gender, Parental Involvement, Parental Education, Family Income  
 
-### 3️⃣ School Environment vs Exam Score
+### 3️⃣ School Environment & Exam Score
 - Charts: Teacher Quality, Resources, Peer Influence, School Type  
 - Slicers: Gender, School Type, Study Hours, Resources, Teacher Quality, Peer Influence  
 
-### 4️⃣ Lifestyle Analysis: Sleep, Physical Activity & Scores
+### 4️⃣  Lifestyle & Daily Habits impacts on Scores
 - Charts: Sleep, Internet Access, Physical Activity, Learning Disabilities  
 - Slicers: Gender, Internet Access, Learning Disabilities, Physical Activity  
 
-### 5️⃣ Predicting Top Factors Affecting Student Exam Score
+### 5️⃣ Multi-Factor Analysis
 - Charts: Performance Category vs Study Hours & Tutoring  
 - Slicers: Gender, School Type, Study Hours, Resources, Internet Access, Motivation, Extracurricular Activities, Physical Activity, Family Income  
 
